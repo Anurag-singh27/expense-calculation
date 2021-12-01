@@ -1,0 +1,137 @@
+h2,h3,h4{color:black;}
+p{color: orange;font-size: 100px;font-style: italic;
+}
+.ko{
+	font-family: "Times New Roman";
+	font-weight: bolder;
+	color: black;
+	background-color: yellow;
+	padding: 4px 2px 2px 4px;
+	float: center; 
+	position:  fixed;
+	z-index: 200;
+	box-shadow: 10px 10px 10px 10px #888888;
+	border: 0.1rem solid;
+	top: 0;
+	border-radius: 2rem;
+
+	
+}
+body{
+	/*background-image:url();*/
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+
+}
+
+.menu{
+	float:left;
+	top: 0;
+	z-index: 100;
+	position: sticky;
+	text-align: center;
+	border:0.1rem solid ;
+
+	
+}
+.menu ul{
+	list-style:none;
+	margin:10px;
+	padding:10px;
+	background-color: khaki;
+	opacity: 500;
+	border-radius: 1rem;
+}
+.menu li{
+	display: inline-block;
+	padding:0 40px;
+	color:black;
+	
+
+}	
+.menu a{
+	text-decoration: none;
+	
+	text-transform: uppercase;
+	font-size: bold;
+	font-family: 'Lato':;
+}	
+.menu a:hover{
+	text-decoration: none;
+}
+section{
+	padding: 40px 120px:;
+}
+section#about img{
+	float: right;
+}
+section#about .content{
+	margin-right: : 220px
+	border:5rem;
+	font-weight: bolder;
+	
+	color:sky;
+}
+
+ol li{font-size: 30px;color:red;}
+<style>
+a:link{color:yellow;}
+a:visited{color:black;}
+a:hover{color:red;font-size: 30px}
+a:active{color:deeppink;}
+</style>
+.nav{
+	flaot:right;
+	width:120px;
+	padding:15px 12px 12px 15px:
+	background-color:khaki:
+	position:fixed;
+	z-index: 100
+}
+<style>
+table {
+  font-family: arial, sans-serif;
+  background-color: yellow;
+  
+}
+
+td, th {
+  border: 1px solid green;
+  text-align: left;
+  padding: 8px;
+  background-color: khaki;
+  opacity: 300;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+.content{font-weight: bold;
+font-family: Times New Roman;
+ border: 0.9rem;
+background-color: skyblue;
+}
+.stk{
+	align-self: center;
+	float: center;
+	
+	padding-left: 200px;
+	padding-right:300px;
+}
+
+.op{
+	font-style: 
+	bold;color: black;
+	text-align: center;
+	font-size:5rem ;
+	border-color: purple;
+	border-style: solid;
+	border-width:10px; 
+	padding: 10px 10px 10px 10px;
+	background-color: deepskyblue;
+	box-shadow: 10px 10px 10px 10px #888888; 
+	border-radius: 2rem;"
+}
