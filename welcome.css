@@ -8,7 +8,7 @@ p{color: orange;font-size: 100px;font-style: italic;
 	background-color: yellow;
 	padding: 4px 2px 2px 4px;
 	float: center; 
-	position:  fixed;
+	position:  centre 12px ;
 	z-index: 200;
 	box-shadow: 10px 10px 10px 10px #888888;
 	border: 0.1rem solid;
@@ -19,6 +19,7 @@ p{color: orange;font-size: 100px;font-style: italic;
 }
 body{
 	/*background-image:url();*/
+	background-color: skyblue;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -32,6 +33,7 @@ body{
 	z-index: 100;
 	position: sticky;
 	text-align: center;
+	padding: 100px;
 	border:0.1rem solid ;
 
 	
@@ -118,7 +120,7 @@ background-color: skyblue;
 	align-self: center;
 	float: center;
 	
-	padding-left: 200px;
+	padding-left: 500px;
 	padding-right:300px;
 }
 
